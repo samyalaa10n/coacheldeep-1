@@ -1,0 +1,14 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://coacheldeep.runasp.net/sitemap.xml
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
